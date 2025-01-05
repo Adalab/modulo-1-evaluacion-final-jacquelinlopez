@@ -1,11 +1,10 @@
-header {
+.header{
   background-color: $color-brand;
   position: fixed;
   z-index: 100;
 
-  &__menu {
-    padding: 20px;
-    
-  }
+  &__menu{
+    padding:20px;
+     }
 }
 
